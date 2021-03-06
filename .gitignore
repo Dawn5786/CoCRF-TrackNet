@@ -133,3 +133,10 @@ dmypy.json
 node_modules/
 node_modules/node.txt
 run_ipiutest.py
+*.tiff
+*.jpg
+ltr/models/
+ltr/train_settings
+trackprocess/tracler
+trackprocess/parameter
+
