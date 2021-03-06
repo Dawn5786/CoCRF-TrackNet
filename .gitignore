@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # Preview
-readme.txt
+.readme.txt
 node_modules/
