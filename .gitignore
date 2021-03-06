@@ -137,6 +137,7 @@ run_ipiutest.py
 *.jpg
 ltr/models/
 ltr/train_settings
-trackprocess/tracler
+trackprocess/tracker
 trackprocess/parameter
+
 
