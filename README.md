@@ -1,2 +1,2 @@
-# CoCRF-TrackNet-for-Satellie-Video
+# CoCRF-TrackNet-for-Satellite-Video
 A Tracking Framework for Satellite Videos.  
