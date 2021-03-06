@@ -131,3 +131,4 @@ dmypy.json
 # Preview
 .readme.txt
 node_modules/
+node_modules/node.txt
